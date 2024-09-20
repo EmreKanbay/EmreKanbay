@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66eddcc6e80161c4cbc980e4?variant=dark)](https://roadmap.sh)
 <!--
 **EmreKanbay/EmreKanbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
